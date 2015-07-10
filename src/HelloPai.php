@@ -3,7 +3,10 @@
 namespace HelloWorld;
 
 class HelloPai {
-    public static function hi() {
+    public function __constructor() {
+
+    }
+    public function hi() {
         return 'HelloWorld by Pai';
     }
 }
