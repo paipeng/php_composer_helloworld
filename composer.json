@@ -20,7 +20,7 @@
       "HelloWorld\\HelloPai": "src/"
     }
   },
-  "minimum-stability": "dev",
+  "minimum-stability": "release",
   "repositories": [
     {
       "type": "git",
