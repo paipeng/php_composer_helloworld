@@ -20,5 +20,11 @@
       "HelloWorld\\HelloPai": "src/"
     }
   },
-  "minimum-stability": "dev"
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/paipeng/php_composer_helloworld"
+    }
+  ]
 }
