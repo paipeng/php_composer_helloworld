@@ -2,7 +2,7 @@
   "name": "paipeng/hello-world",
   "description": "Testing",
   "license": "MIT",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "authors": [
     {
       "name": "Pai Peng",
@@ -20,7 +20,7 @@
       "HelloWorld\\HelloPai": "src/"
     }
   },
-  "minimum-stability": "release",
+  "minimum-stability": "stable",
   "repositories": [
     {
       "type": "git",
