@@ -1,0 +1,12 @@
+{
+    "name": "paipeng/hello-world",
+    "description": "Testing",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pai Peng",
+            "email": "sipaipv6@gmail.com"
+        }
+    ],
+    "require": {}
+}
